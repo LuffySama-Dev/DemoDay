@@ -2,23 +2,22 @@
 
 This template uses TypeScript.
 
+## Install dependencies
+
+```sh
+npm run install
+```
+
 ## How to build
 
 ```sh
 npm run build
 ```
 
-## How to run tests
+## How to run code
 
 ```sh
-npm run test
-npm run testw # watch mode
-```
-
-## How to run coverage
-
-```sh
-npm run coverage
+node build/src/main.js
 ```
 
 ## License
